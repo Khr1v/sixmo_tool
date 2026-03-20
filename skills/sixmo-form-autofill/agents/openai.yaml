@@ -1,0 +1,4 @@
+version: 1
+display_name: Sixmo Form Autofill
+short_description: Complete the sixmo.ru adaptive form flow via Playwright API with file upload support.
+default_prompt: Run the sixmo automation script with user-provided answers and file path, then return finalIdentifier and completion details.

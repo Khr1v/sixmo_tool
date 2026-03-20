@@ -1,0 +1,18 @@
+{
+  "answers": {
+    "orbital_path": "Хогвартс",
+    "favorite_color": "Гриффиндор",
+    "logic_mode": "Букля",
+    "shape_signal": "Платформа 9 3/4",
+    "tempo_choice": "Снитч"
+  },
+  "step_answers": {
+    "1": {
+      "Как называется школа, в которой учились Гарри, Рон и Гермиона?": "Хогвартс"
+    },
+    "2": {
+      "Какой из этих предметов связан с квиддичем?": "Снитч"
+    }
+  },
+  "file_path": "/Users/ivanharitonov/Desktop/sixmo_tool1/1.txt"
+}
