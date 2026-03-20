@@ -19,7 +19,7 @@
 - `skills/sixmo-form-autofill/scripts/run_sixmo_form.py`  
   Низкоуровневый раннер формы (UI bootstrap + API шаги + multipart submit + файл).
 - `agent/run_form_agent.py`  
-  Чат-агент на LangChain, который вызывает tool и формирует ответ пользователю(демон.
+  Чат-агент на LangChain, который вызывает tool и формирует ответ пользователю(демонстрация, что решение решение можно вызвать через `tool/skill`)
 - `run_agent.py`  
   Короткая точка входа в интерактивный режим.
 
